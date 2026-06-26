@@ -30,13 +30,13 @@ Hello there ! Since i discovered AI in 2013, i worked and did study on it at EPI
 | :--- | :--- | :--- |
 | 🔍 **[RL Project](https://github.com/VyrtualL/RL-Project)** | An implementation of a Dueling Double Q Learning + Noisy Network on the Atari game : Pong | `PyTorch` `Gymnasium` |
 | 🌍 **[MLP From Scratch](https://github.com/VyrtualL/IA_Image_Recognition)** | Developed a digit recognition MLP for MNIST from scratch in C | `C` |
-| 🧩 **[Projet 3](Swin Transformer)** | Reimplementation of the paper Swin Transformer from Microsoft | `Python` |
-| 👁️ **[Projet 4](URL_PROJET_4)** | Courte description du projet et de son objectif. | `Python` `OpenCV` |
-| 🤖 **[Projet 5](URL_PROJET_5)** | Courte description du projet et de son objectif. | `Python` `Transformers` |
-| 📊 **[Projet 6](URL_PROJET_6)** | Courte description du projet et de son objectif. | `Python` `Pandas` `NumPy` |
-| ⚡ **[Projet 7](URL_PROJET_7)** | Courte description du projet et de son objectif. | `Python` `FastAPI` `Docker` |
-| 🧠 **[Projet 8](URL_PROJET_8)** | Courte description du projet et de son objectif. | `Python` `LangChain` |
-| 🎮 **[Projet 9](URL_PROJET_9)** | Courte description du projet et de son objectif. | `C++` `CUDA` |
+| 🧩 **[Swin Transformer]()** | Reimplementation of the paper Swin Transformer from Microsoft | `Python` |
+| 👁️ **[Deep Learning Projects](https://github.com/VyrtualL/MLProjects)** | Reimplementation of Open-Set R-CNN, VAE on MNIST, Super Resolution (EDSR),… | `Python` |
+| 🤖 **[GPGPU]()** | Video Motion Estimation project using GPGPU techniques | `Cuda` |
+| 📊 **[Video Processing](https://github.com/VyrtualL/VideoProcessing)** | Implementation of mesh-based motion estimation using gradient descent, implementation of block-based motion vector estimation,… | `Python` `NumPy` |
+| ⚡ **[MLVOT](https://github.com/VyrtualL/MLVOT-MatisBraun)** |  | `Python` `FastAPI` `Docker` |
+| 🧠 **[MLOps](https://github.com/VyrtualL/ML_OPS)** | Reproduction of ChatGPT (Front interface, MLFlow, Canary deployment, API, Kafka stream, User hierarchy,…) | `Python` `LangChain` |
+| 🎮 **[MLBio](https://github.com/VyrtualL/MLBIO)** | ML in Biomedical : ECG Classiﬁ cation, Cell Segmentation, Solubility Prediction, Federated Learning Local,…  | `C++` `CUDA` |
 | 🎨 **[Projet 10](URL_PROJET_10)** | Courte description du projet et de son objectif. | `Python` `R` |
  
 </div>
