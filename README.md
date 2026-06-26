@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./princess-kaguya-studio-ghibli" width="500" alt="Tales of Kaguya animation"/>
+<img src="./princess-kaguya-studio-ghibli.gif" width="500" alt="Tales of Kaguya animation"/>
 
 $\color{gray}{\textit{Tales of Kaguya, charcoal drawing and animation, Ghibli}}$
 
