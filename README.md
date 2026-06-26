@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./princess-kaguya-studio-ghibli.gif" width="500" alt="Tales of Kaguya animation"/>
+<img src="./assets/princess-kaguya-studio-ghibli.gif" width="500" alt="Tales of Kaguya animation"/>
 
 $\color{gray}{\textit{Tales of Kaguya, charcoal drawing and animation, Ghibli}}$
 
 <br/>
 
-# Prénom Nom
+# Matis Braun
 
 ### Mathematics | Artificial Intelligence | Data Science | 2D Animation
 
@@ -23,19 +23,20 @@ Hello there ! Since i discovered AI in 2013, i worked and did study on it at EPI
 
 <br/>
 
-<h2 align="center">IA Projects</h2>
-
-<br/>
-
+<div align="center">
+### ✨&nbsp;IA Projects
+ 
 | Project | Description | Stack |
-|---|---|---|
-| Projet 1 | Description courte du projet et de son objectif | Python, PyTorch |
-| Projet 2 | Description courte du projet et de son objectif | Python, TensorFlow, Keras |
-| Projet 3 | Description courte du projet et de son objectif | Python, Scikit-learn |
-| Projet 4 | Description courte du projet et de son objectif | Python, OpenCV |
-| Projet 5 | Description courte du projet et de son objectif | Python, Hugging Face Transformers |
-| Projet 6 | Description courte du projet et de son objectif | Python, Pandas, NumPy |
-| Projet 7 | Description courte du projet et de son objectif | Python, FastAPI, Docker |
-| Projet 8 | Description courte du projet et de son objectif | Python, LangChain |
-| Projet 9 | Description courte du projet et de son objectif | C++, CUDA |
-| Projet 10 | Description courte du projet et de son objectif | Python, R, Statistiques |
+| :--- | :--- | :--- |
+| 🔍 **[Projet 1](URL_PROJET_1)** | Courte description du projet et de son objectif. | `Python` `PyTorch` |
+| 🌍 **[Projet 2](URL_PROJET_2)** | Courte description du projet et de son objectif. | `Python` `TensorFlow` |
+| 🧩 **[Projet 3](URL_PROJET_3)** | Courte description du projet et de son objectif. | `Python` `Scikit-learn` |
+| 👁️ **[Projet 4](URL_PROJET_4)** | Courte description du projet et de son objectif. | `Python` `OpenCV` |
+| 🤖 **[Projet 5](URL_PROJET_5)** | Courte description du projet et de son objectif. | `Python` `Transformers` |
+| 📊 **[Projet 6](URL_PROJET_6)** | Courte description du projet et de son objectif. | `Python` `Pandas` `NumPy` |
+| ⚡ **[Projet 7](URL_PROJET_7)** | Courte description du projet et de son objectif. | `Python` `FastAPI` `Docker` |
+| 🧠 **[Projet 8](URL_PROJET_8)** | Courte description du projet et de son objectif. | `Python` `LangChain` |
+| 🎮 **[Projet 9](URL_PROJET_9)** | Courte description du projet et de son objectif. | `C++` `CUDA` |
+| 🎨 **[Projet 10](URL_PROJET_10)** | Courte description du projet et de son objectif. | `Python` `R` |
+ 
+</div>
