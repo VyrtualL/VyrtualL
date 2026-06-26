@@ -24,13 +24,13 @@ Hello there ! Since i discovered AI in 2013, i worked and did study on it at EPI
 <br/>
 
 <div align="center">
-### ✨&nbsp;IA Projects
+###✨&nbsp;IA Projects
  
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🔍 **[Projet 1](URL_PROJET_1)** | Courte description du projet et de son objectif. | `Python` `PyTorch` |
-| 🌍 **[Projet 2](URL_PROJET_2)** | Courte description du projet et de son objectif. | `Python` `TensorFlow` |
-| 🧩 **[Projet 3](URL_PROJET_3)** | Courte description du projet et de son objectif. | `Python` `Scikit-learn` |
+| 🔍 **[RL Project](https://github.com/VyrtualL/RL-Project)** | An implementation of a Dueling Double Q Learning + Noisy Network on the Atari game : Pong | `PyTorch` `Gymnasium` |
+| 🌍 **[MLP From Scratch](https://github.com/VyrtualL/IA_Image_Recognition)** | Developed a digit recognition MLP for MNIST from scratch in C | `C` |
+| 🧩 **[Projet 3](Swin Transformer)** | Reimplementation of the paper Swin Transformer from Microsoft | `Python` |
 | 👁️ **[Projet 4](URL_PROJET_4)** | Courte description du projet et de son objectif. | `Python` `OpenCV` |
 | 🤖 **[Projet 5](URL_PROJET_5)** | Courte description du projet et de son objectif. | `Python` `Transformers` |
 | 📊 **[Projet 6](URL_PROJET_6)** | Courte description du projet et de son objectif. | `Python` `Pandas` `NumPy` |
