@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/princess-kaguya-studio-ghibli.gif" width="500" alt="Tales of Kaguya animation"/>
+<img src="./princess-kaguya-studio-ghibli.gif" width="500" alt="Tales of Kaguya animation"/>
 
 $\color{gray}{\textit{Tales of Kaguya, charcoal drawing and animation, Ghibli}}$
 
@@ -17,7 +17,7 @@ $\color{gray}{\textit{Tales of Kaguya, charcoal drawing and animation, Ghibli}}$
 
 <br/>
 
-Hello there ! Since i discovered AI in 2013, i worked and did study on it at EPITA. Having a creative mind, i draw and 2D animate in my free time for big japanese animation studios like MAPPA, A1 Pictures, ...
+Hello there ! i draw and 2D animate in my free time for big japanese animation studios like MAPPA, A1 Pictures, ...
 
 </div>
 
@@ -32,7 +32,7 @@ Hello there ! Since i discovered AI in 2013, i worked and did study on it at EPI
 | 🌍 **[MLP From Scratch](https://github.com/VyrtualL/IA_Image_Recognition)** | Developed a digit recognition MLP for MNIST from scratch in C | `C` |
 | 🧩 **[Swin Transformer]()** | Reimplementation of the paper Swin Transformer from Microsoft | `Python` |
 | 👁️ **[Deep Learning Projects](https://github.com/VyrtualL/MLProjects)** | Reimplementation of Open-Set R-CNN, VAE on MNIST, Super Resolution (EDSR),… | `Python` |
-| 🤖 **[GPGPU]()** | Video Motion Estimation project using GPGPU techniques | `Cuda` |
+| 🤖 **[GPGPU](https://github.com/VyrtualL/GPGPU)** | Video Motion Estimation project using GPGPU techniques | `Cuda` `C++`|
 | 📊 **[Video Processing](https://github.com/VyrtualL/VideoProcessing)** | Implementation of mesh-based motion estimation using gradient descent, implementation of block-based motion vector estimation,… | `Python` `NumPy` |
 | ⚡ **[MLVOT](https://github.com/VyrtualL/MLVOT-MatisBraun)** |  | `Python` `FastAPI` `Docker` |
 | 🧠 **[MLOps](https://github.com/VyrtualL/ML_OPS)** | Reproduction of ChatGPT (Front interface, MLFlow, Canary deployment, API, Kafka stream, User hierarchy,…) | `Python` `LangChain` |
