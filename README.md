@@ -30,7 +30,7 @@ Hello there ! i draw and 2D animate in my free time for big japanese animation s
 | :--- | :--- | :--- |
 | 🔍 **[RL Project](https://github.com/VyrtualL/RL-Project)** | An implementation of a Dueling Double Q Learning + Noisy Network on the Atari game : Pong | `PyTorch` `Gymnasium` |
 | 🌍 **[MLP From Scratch](https://github.com/VyrtualL/IA_Image_Recognition)** | Developed a digit recognition MLP for MNIST from scratch in C | `C` |
-| 🧩 **[Swin Transformer]()** | Reimplementation of the paper Swin Transformer from Microsoft | `Python` |
+| 🧩 **[Swin Transformer](https://github.com/VyrtualL/Swin-Transformer)** | Reimplementation of the paper Swin Transformer from Microsoft | `Python` `PyTorch` |
 | 👁️ **[Deep Learning Projects](https://github.com/VyrtualL/MLProjects)** | Reimplementation of Open-Set R-CNN, VAE on MNIST, Super Resolution (EDSR),… | `Python` |
 | 🤖 **[GPGPU](https://github.com/VyrtualL/GPGPU)** | Video Motion Estimation project using GPGPU techniques | `Cuda` `C++`|
 | 📊 **[Video Processing](https://github.com/VyrtualL/VideoProcessing)** | Implementation of mesh-based motion estimation using gradient descent, implementation of block-based motion vector estimation,… | `Python` `NumPy` |
