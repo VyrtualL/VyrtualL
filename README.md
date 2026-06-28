@@ -1,23 +1,32 @@
+#👋 Hello ! I'm Matis Braun
+
 <div align="center">
 
-<img src="./princess-kaguya-studio-ghibli.gif" width="500" alt="Tales of Kaguya animation"/>
+<img src="./kaguya_g.gif" alt="The Tale of the Princess Kaguya animation"/>
 
-$\color{gray}{\textit{Tales of Kaguya, charcoal drawing and animation, Ghibli}}$
+$\color{gray}{\textit{The Tale of the Princess Kaguya, charcoal and watercolor animation, Ghibli}}$
+$\color{gray}{\textit{Animator : Shinji Hashimoto}}$
 
 <br/>
-
-# Matis Braun
 
 ### Mathematics | Artificial Intelligence | Data Science | 2D Animation
 
 <br/>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>](LINKEDIN_URL_ICI)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/matis-braun-59664a238/)
 [<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>](X_URL_ICI)
 
 <br/>
 
-Hello there ! i draw and 2D animate in my free time for big japanese animation studios like MAPPA, A1 Pictures, ...
+I've been passionate about artificial intelligence since 2013, when I first came across the term in Le Monde's special "Futur" and I've been following the field's progress ever since.
+
+I'm an AI engineer, graduated from EPITA , and I'm now working toward my next goal: a PhD in computer vision applied to satellite and space imagery.
+
+I'm also a 2D animator in my free time. 
+
+I've had the chance to draw and animate for major Japanese animation studios such as MAPPA, A-1 Pictures, and Wit Studio, contributing to productions including Star Wars: Visions, Jujutsu Kaisen, and Solo Leveling. 
+
+You can find the full list of productions I've worked on here.
 
 </div>
 
@@ -32,11 +41,11 @@ Hello there ! i draw and 2D animate in my free time for big japanese animation s
 | 🌍 **[MLP From Scratch](https://github.com/VyrtualL/IA_Image_Recognition)** | Developed a digit recognition MLP for MNIST from scratch in C | `C` |
 | 🧩 **[Swin Transformer](https://github.com/VyrtualL/Swin-Transformer)** | Reimplementation of the paper Swin Transformer from Microsoft | `Python` `PyTorch` |
 | 👁️ **[Deep Learning Projects](https://github.com/VyrtualL/MLProjects)** | Reimplementation of Open-Set R-CNN, VAE on MNIST, Super Resolution (EDSR),… | `Python` |
-| 🤖 **[GPGPU](https://github.com/VyrtualL/GPGPU)** | Video Motion Estimation project using GPGPU techniques | `Cuda` `C++`|
+| 🤖 **[GPGPU](https://github.com/VyrtualL/GPGPU)** | Video Motion Estimation project using GPGPU techniques | `Cuda` `C++` `C`|
 | 📊 **[Video Processing](https://github.com/VyrtualL/VideoProcessing)** | Implementation of mesh-based motion estimation using gradient descent, implementation of block-based motion vector estimation,… | `Python` `NumPy` |
-| ⚡ **[MLVOT](https://github.com/VyrtualL/MLVOT-MatisBraun)** |  | `Python` `FastAPI` `Docker` |
-| 🧠 **[MLOps](https://github.com/VyrtualL/ML_OPS)** | Reproduction of ChatGPT (Front interface, MLFlow, Canary deployment, API, Kafka stream, User hierarchy,…) | `Python` `LangChain` |
-| 🎮 **[MLBio](https://github.com/VyrtualL/MLBIO)** | ML in Biomedical : ECG Classiﬁ cation, Cell Segmentation, Solubility Prediction, Federated Learning Local,…  | `C++` `CUDA` |
+| ⚡ **[MLVOT](https://github.com/VyrtualL/MLVOT-MatisBraun)** |  | `Python` |
+| 🧠 **[MLOps](https://github.com/VyrtualL/ML_OPS)** | Reproduction of ChatGPT (Front interface, MLFlow, Canary deployment, API, Kafka stream, User hierarchy,…) | `Python` `Docker` `Apache Kafka` |
+| 🎮 **[MLBio](https://github.com/VyrtualL/MLBIO)** | ML in Biomedical : ECG Classiﬁ cation, Cell Segmentation, Solubility Prediction, Federated Learning Local,…  | `Python` `Scikit-Learn` `RDKit` |
 | 🎨 **[Projet 10](URL_PROJET_10)** | Courte description du projet et de son objectif. | `Python` `R` |
  
 </div>
