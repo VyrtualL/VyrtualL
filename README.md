@@ -1,12 +1,10 @@
-#👋 Hello ! I'm Matis Braun
+<h1 align="center">👋 Hello ! I'm Matis Braun</h1>
 
 <div align="center">
 
-<img src="./assets/kaguya_g.gif" alt="The Tale of the Princess Kaguya animation"/>
+<img src="./assets/kaguya_g.gif" width="35%" alt="The Tale of the Princess Kaguya animation"/>
 
-$\color{gray}{\textit{The Tale of the Princess Kaguya, charcoal and watercolor animation, Ghibli}}$
-
-$\color{gray}{\textit{Animator : Shinji Hashimoto}}$
+$\color{gray}{\textit{The Tale of the Princess Kaguya, charcoal and watercolor animation, Ghibli}}$  $\color{gray}{\textit{Animator : Shinji Hashimoto}}$
 
 <br/>
 
@@ -19,22 +17,16 @@ $\color{gray}{\textit{Animator : Shinji Hashimoto}}$
 
 <br/>
 
-I've been passionate about artificial intelligence since 2013, when I first came across the term in Le Monde's special "Futur" and I've been following the field's progress ever since.
+I've been passionate about artificial intelligence since 2013, when I first came across the term in Le Monde's special "Futur" and I've been following the field's progress ever since.  I'm an AI engineer, graduated from EPITA , and I'm now working toward my next goal: a PhD in computer vision applied to satellite and space imagery.
 
-I'm an AI engineer, graduated from EPITA , and I'm now working toward my next goal: a PhD in computer vision applied to satellite and space imagery.
-
-I'm also a 2D animator in my free time. 
-
-I've had the chance to draw and animate for major Japanese animation studios such as MAPPA, A-1 Pictures, and Wit Studio, contributing to productions including Star Wars: Visions, Jujutsu Kaisen, and Solo Leveling. 
-
-You can find the full list of productions I've worked on here.
+I'm also a 2D animator in my free time.  I've had the chance to draw and animate for major Japanese animation studios such as MAPPA, A-1 Pictures, and Wit Studio, contributing to productions including Star Wars: Visions, Jujutsu Kaisen, and Solo Leveling.  You can find the full list of productions I've worked on here.
 
 </div>
 
 <br/>
 
 <div align="center">
-###✨&nbsp;IA Projects
+### ✨&nbsp;IA Projects
  
 | Project | Description | Stack |
 | :--- | :--- | :--- |
