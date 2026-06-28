@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/kaguya_g.gif" alt="The Tale of the Princess Kaguya animation"/>
+<img src="./assets/kaguya_cine.gif" alt="The Tale of the Princess Kaguya animation"/>
 
 $\color{gray}{\textit{The Tale of the Princess Kaguya, charcoal and watercolor animation, Ghibli}}$  $\color{gray}{\textit{Animator : Shinji Hashimoto}}$
 
