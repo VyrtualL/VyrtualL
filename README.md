@@ -2,9 +2,10 @@
 
 <div align="center">
 
-<img src="./kaguya_g.gif" alt="The Tale of the Princess Kaguya animation"/>
+<img src="./assets/kaguya_g.gif" alt="The Tale of the Princess Kaguya animation"/>
 
 $\color{gray}{\textit{The Tale of the Princess Kaguya, charcoal and watercolor animation, Ghibli}}$
+
 $\color{gray}{\textit{Animator : Shinji Hashimoto}}$
 
 <br/>
@@ -37,15 +38,14 @@ You can find the full list of productions I've worked on here.
  
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🔍 **[RL Project](https://github.com/VyrtualL/RL-Project)** | An implementation of a Dueling Double Q Learning + Noisy Network on the Atari game : Pong | `PyTorch` `Gymnasium` |
-| 🌍 **[MLP From Scratch](https://github.com/VyrtualL/IA_Image_Recognition)** | Developed a digit recognition MLP for MNIST from scratch in C | `C` |
-| 🧩 **[Swin Transformer](https://github.com/VyrtualL/Swin-Transformer)** | Reimplementation of the paper Swin Transformer from Microsoft | `Python` `PyTorch` |
-| 👁️ **[Deep Learning Projects](https://github.com/VyrtualL/MLProjects)** | Reimplementation of Open-Set R-CNN, VAE on MNIST, Super Resolution (EDSR),… | `Python` |
+| 🕹️ **[RL Project](https://github.com/VyrtualL/RL-Project)** | An implementation of a Dueling Double Q Learning + Noisy Network on the Atari game : Pong | `PyTorch` `Gymnasium` |
+| 💾 **[MLP From Scratch](https://github.com/VyrtualL/IA_Image_Recognition)** | Developed a digit recognition MLP for MNIST from scratch in C | `C` |
+| 🪟 **[Swin Transformer](https://github.com/VyrtualL/Swin-Transformer)** | Reimplementation of the paper Swin Transformer from Microsoft | `Python` `PyTorch` |
+| 🧩 **[Deep Learning Projects](https://github.com/VyrtualL/MLProjects)** | Reimplementation of Open-Set R-CNN, VAE on MNIST, Super Resolution (EDSR),… | `Python` |
 | 🤖 **[GPGPU](https://github.com/VyrtualL/GPGPU)** | Video Motion Estimation project using GPGPU techniques | `Cuda` `C++` `C`|
-| 📊 **[Video Processing](https://github.com/VyrtualL/VideoProcessing)** | Implementation of mesh-based motion estimation using gradient descent, implementation of block-based motion vector estimation,… | `Python` `NumPy` |
-| ⚡ **[MLVOT](https://github.com/VyrtualL/MLVOT-MatisBraun)** |  | `Python` |
-| 🧠 **[MLOps](https://github.com/VyrtualL/ML_OPS)** | Reproduction of ChatGPT (Front interface, MLFlow, Canary deployment, API, Kafka stream, User hierarchy,…) | `Python` `Docker` `Apache Kafka` |
-| 🎮 **[MLBio](https://github.com/VyrtualL/MLBIO)** | ML in Biomedical : ECG Classiﬁ cation, Cell Segmentation, Solubility Prediction, Federated Learning Local,…  | `Python` `Scikit-Learn` `RDKit` |
-| 🎨 **[Projet 10](URL_PROJET_10)** | Courte description du projet et de son objectif. | `Python` `R` |
+| 🎞️ **[Video Processing](https://github.com/VyrtualL/VideoProcessing)** | Implementation of mesh-based motion estimation using gradient descent, implementation of block-based motion vector estimation,… | `Python` `NumPy` |
+| 🎯 **[MLVOT](https://github.com/VyrtualL/MLVOT-MatisBraun)** | Multi-object tracking using Kalman Filters | `Python` |
+| 🐈 **[MLOps](https://github.com/VyrtualL/ML_OPS)** | Reproduction of ChatGPT (Front interface, MLFlow, Canary deployment, API, Kafka stream, User hierarchy,…) | `Python` `Docker` `Apache Kafka` |
+| 🧬 **[MLBio](https://github.com/VyrtualL/MLBIO)** | ML in Biomedical : ECG Classiﬁ cation, Cell Segmentation, Solubility Prediction, Federated Learning Local,…  | `Python` `Scikit-Learn` `RDKit` |
  
 </div>
