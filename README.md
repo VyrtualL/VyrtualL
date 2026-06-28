@@ -66,30 +66,30 @@ I'm a big charcoal drawing enthusiast ! Here are some of my charcoal drawings, a
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/anim1.gif" width="220"><br/>
-      <em>Studio Name — Star Wars Vision</em>
+      <img src="./assets/sw_git.gif" width="220"><br/>
+      <em>Wit / Disney — Star Wars Vision</em>
     </td>
     <td align="center">
-      <img src="./assets/anim2.gif" width="220"><br/>
+      <img src="./assets/jjk_git.gif" width="220"><br/>
       <em>MAPPA — Jujutsu Kaisen Season 2</em>
     </td>
     <td align="center">
-      <img src="./assets/anim3.gif" width="220"><br/>
+      <img src="./assets/sl_git.gif" width="220"><br/>
       <em>A1-Pictures — Solo Leveling Season 1 & 2</em>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./assets/anim4.gif" width="220"><br/>
-      <em>Studio Name — Show Title</em>
+      <img src="./assets/Madoka_git.gif" width="220"><br/>
+      <em>Pinejam — Madoka Magica</em>
     </td>
     <td align="center">
-      <img src="./assets/anim5.gif" width="220"><br/>
-      <em>Studio Name — Show Title</em>
+      <img src="./assets/princesse_git.gif" width="220"><br/>
+      <em>Pinejam — Hime-sama Goumon</em>
     </td>
     <td align="center">
-      <img src="./assets/anim6.gif" width="220"><br/>
-      <em>Studio Name — Show Title</em>
+      <img src="./assets/other_git.gif" width="220"><br/>
+      <em>Some others works</em>
     </td>
   </tr>
 </table>
