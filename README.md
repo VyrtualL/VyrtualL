@@ -10,7 +10,9 @@ $\color{gray}{\textit{Animator : Shinji Hashimoto}}$
 
 <br/>
 
-### Mathematics | Artificial Intelligence | Data Science | 2D Animation
+## Matis Braun
+
+### Mathematics | Artificial Intelligence | Data Science | 2D Animation 
 
 <br/>
 
@@ -20,9 +22,13 @@ $\color{gray}{\textit{Animator : Shinji Hashimoto}}$
 
 <br/>
 
-I've been passionate about artificial intelligence since 2013, when I first came across the term in [Le Monde's special "Futur : Les avancées technologiques"](https://www.noosfere.org/livres/niourf.asp?numlivre=2146585029) and I've been following the field's progress ever since.  I'm an AI engineer, graduated in 2026 from EPITA , and I'm now working toward my next goal : a PhD in computer vision applied to satellite and space imagery.
+Passionate and curious from an early age about mathematics, science, space, and art, I became fascinated by artificial intelligence in 2013, when I first came across the term in [Le Monde's special "Futur : Les avancées technologiques"](https://www.noosfere.org/livres/niourf.asp?numlivre=2146585029). Since then, I have been following the field’s progress closely, and my fascination gradually turned into a clear ambition to make my career in Artificial Intelligence.
 
-I'm also a 2D animator in my free time.  I've had the chance to draw and animate for major Japanese animation studios such as MAPPA, A-1 Pictures, Wit Studio, ... , contributing to productions including Star Wars : Visions for Disney, Jujutsu Kaisen, Solo Leveling, ...  You can find the full list of productions I've worked on [here](https://keyframe-staff-list.com/person/331579).
+Today, I am an AI scientist, having graduated from EPITA in 2026 with a Master’s degree in Computer Science and a specialization in Artificial Intelligence and Computer Vision. I am now working toward my next goal : pursuing a PhD in Computer Vision, with a focus on satellite and space imagery.
+
+Alongside science and technology, creativity has always been an important part of who I am. I have been drawing and making art since childhood, and my early discovery of Studio Ghibli films, with their sense of wonder, imagination, and creative freedom, inspired me to explore 2D animation and visual storytelling.
+
+Today, I also work as a professional 2D animator in my free time. I've had the opportunity to draw and animate for major Japanese animation studios such as MAPPA, A-1 Pictures, Wit Studio, ... , contributing to productions including Star Wars : Visions for Disney, Jujutsu Kaisen, Solo Leveling, ... and other projects that have not yet been released. You can find the full list of productions I've worked on [here](https://keyframe-staff-list.com/person/331579).
 
 </div>
 
@@ -37,9 +43,10 @@ I'm also a 2D animator in my free time.  I've had the chance to draw and animate
 | 💾 **[MLP From Scratch](https://github.com/VyrtualL/IA_Image_Recognition)** | Developed a digit recognition MLP for MNIST from scratch in C | `C` |
 | 🪟 **[Swin Transformer](https://github.com/VyrtualL/Swin-Transformer)** | Reimplementation of the paper Swin Transformer from Microsoft | `Python` `PyTorch` |
 | 🧩 **[Deep Learning Projects](https://github.com/VyrtualL/MLProjects)** | Reimplementation of Open-Set R-CNN, VAE on MNIST, Super Resolution (EDSR),… | `Python` |
-| 🤖 **[GPGPU](https://github.com/VyrtualL/GPGPU)** | Video Motion Estimation project using GPGPU techniques | `Cuda` `C++` `C`|
+| 🤖 **[GPGPU](https://github.com/VyrtualL/GPGPU)** | Video Motion Estimation project using GPGPU techniques in Cuda and C++ | `Cuda` `C++` `C`|
 | 🎞️ **[Video Processing](https://github.com/VyrtualL/VideoProcessing)** | Implementation of mesh-based motion estimation using gradient descent, implementation of block-based motion vector estimation,… | `Python` `NumPy` |
 | 🎯 **[MLVOT](https://github.com/VyrtualL/MLVOT-MatisBraun)** | Multi-object tracking using Kalman Filters | `Python` |
+| 🔍 **[Differentiable Prog](https://github.com/VyrtualL/Prog_Differentiable)** | A differentiable programming project implementing a reverse-mode autograd engine from scratch, then using it to build and compare gradient-based optimizers, learning-rate schedulers, and small neural networks. | `Python` |
 | 🐈 **[MLOps](https://github.com/VyrtualL/ML_OPS)** | Reproduction of ChatGPT (Front interface, MLFlow, Canary deployment, API, Kafka stream, User hierarchy,…) | `Python` `Docker` `Apache Kafka` |
 | 🧬 **[MLBio](https://github.com/VyrtualL/MLBIO)** | ML in Biomedical : ECG Classiﬁ cation, Cell Segmentation, Solubility Prediction, Federated Learning Local,…  | `Python` `Scikit-Learn` `RDKit` |
  
