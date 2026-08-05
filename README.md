@@ -24,7 +24,7 @@ $\color{gray}{\textit{Animator : Shinji Hashimoto}}$
 
 Passionate and curious from an early age about mathematics, science, space, and art, I became fascinated by artificial intelligence in 2013, when I first came across the term in [Le Monde's special "Futur : Les avancées technologiques"](https://www.noosfere.org/livres/niourf.asp?numlivre=2146585029). Since then, I have been following the field’s progress closely, and my fascination gradually turned into a clear ambition to make my career in Artificial Intelligence.
 
-Today, I am an AI scientist, having graduated from EPITA in 2026 with a Master’s degree in Computer Science and a specialization in Artificial Intelligence and Computer Vision. I am now working toward my next goal : pursuing a PhD.
+Today, I am an AI scientist, having graduated from EPITA in 2026 with a Master’s degree in Computer Science and a specialization in Artificial Intelligence and Computer Vision.
 
 Alongside science and technology, creativity has always been an important part of who I am. I have been drawing and making art since childhood, and my early discovery of Studio Ghibli films, with their sense of wonder, imagination, and creative freedom, inspired me to explore 2D animation and visual storytelling.
 
